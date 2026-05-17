@@ -92,13 +92,13 @@ Insurance providers such as Cigna and Medicare contribute the highest hospital r
 
 # Key Insights
 # 1. Patient Behavior Analysis
-![Patients Analysis Table](https://raw.githubusercontent.com/easynett/IOTB-Tech-Hospital-Analysis/main/images/001_patients.png)
+![Patients Analysis Table](https://raw.githubusercontent.com/easynett/IOTB-Tech-Hospital-Analysis/main/images/001_Patients.png)
 
 ## Observations
 - The hospital records **54,966 unique patient admissions**.
 - The Male gender are the most admitted patients for the years under review.
 - The youth of working class age between 34 and 38 are the most admitted patients.
-- Patients with blood group O- are the least admitted, while A- are the most admitted indicating need for more blood donor of A- blood group
+- Patients with blood group O- are the least admitted, while A- are the most admitted indicating need for more blood donor of A- blood group.
 
 ## Insight
 The hospital maintains a strong and consistent patient inflow, indicating growing trust in healthcare services and increased healthcare demand.
