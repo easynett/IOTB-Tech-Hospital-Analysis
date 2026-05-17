@@ -24,7 +24,7 @@ Healthcare Dataset (Microsoft Excel)
 - **Sheet 2:** Pivot Table Report
 - **Sheet 3:** Pivot Chart Report
 
-### Total Records Analyzed
+### Total Patient Records Analyzed
 - **54,966 patient records**
 
 ### Key Fields in the Dataset
@@ -55,6 +55,12 @@ Used to summarize:
 - Medical condition frequency
 - Medication usage
 - Admission type distribution
+
+## Core Application:
+- Microsoft Excel
+- Data Cleaning Techniques
+
+---
 
 ## Pivot Charts
 Used for visual representation of:
@@ -258,31 +264,19 @@ This healthcare analysis helps hospital management:
 
 # Conclusion
 
-The healthcare dataset analyzed provides valuable insight into hospital operations, patient care trends, and financial performance.
+The healthcare dataset analyzed provides valuable insight into hospital operations, patient care trends and financial performance.
 
 Key findings show that:
-- The hospital manages a large patient population
+- The hospital manages a large patient population within the years under review
 - Chronic illnesses are the most common conditions treated
 - Revenue generation remains strong
 - Insurance providers play a major role in financial sustainability
 - Admission demand remains consistently high
 
-Using Pivot Tables, Pivot Charts, and Excel analysis techniques enabled the transformation of raw healthcare records into meaningful business intelligence.
+Using Pivot Tables, Pivot Charts and Excel analysis techniques, I was able to transform raw healthcare records into meaningful business intelligence.
 
 ---
 
-# Tools Used
-
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Excel Functions
-- Data Cleaning Techniques
-
----
-
-## Data Analyst
-
+### Data Analyst
 **_Ishaq Ajayi Ismail_**
-- www.linkedin.com/in/easynett
-- www.github.com/easynett
+www.linkedin.com/in/easynett | www.github.com/easynett | info2easynett@gmail.com
