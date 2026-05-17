@@ -281,10 +281,8 @@ Using Pivot Tables, Pivot Charts, and Excel analysis techniques enabled the tran
 
 ---
 
-# Data Analyst
+## Data Analyst
 
-Ishaq Ajayi Ismail
-
-www.linkedin.com/in/easynett
-
-www.github.com/easynett
+**_Ishaq Ajayi Ismail_**
+- www.linkedin.com/in/easynett
+- www.github.com/easynett
