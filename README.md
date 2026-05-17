@@ -60,8 +60,6 @@ Used to summarize:
 - Microsoft Excel
 - Data Cleaning Techniques
 
----
-
 ## Pivot Charts
 Used for visual representation of:
 - Revenue trends
@@ -95,7 +93,7 @@ Insurance providers such as Cigna and Medicare contribute the highest hospital r
 # Key Insights
 
 # 1. Patient Behavior Analysis
-
+![Patients Analysis Table](../images/001_Patients.png)
 ## Observations
 - The hospital records **54,966 unique patient admissions**.
 - Patients were admitted for a wide variety of medical conditions.
