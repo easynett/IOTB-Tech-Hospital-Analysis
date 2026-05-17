@@ -92,7 +92,7 @@ Insurance providers such as Cigna and Medicare contribute the highest hospital r
 
 # Key Insights
 # 1. Patient Behavior Analysis
-![Patients Analysis Table](https://raw.githubusercontent.com/easynett/IOTB-Tech-Hospital-Analysis/main/images/001_Patients.png)
+![Patients Analysis Table](https://raw.githubusercontent.com/easynett/IOTB-Tech-Hospital-Analysis/main/images/patients.PNG)
 
 ## Observations
 - The hospital records **54,966 unique patient admissions**.
