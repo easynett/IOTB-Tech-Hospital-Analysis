@@ -91,9 +91,9 @@ Insurance providers such as Cigna and Medicare contribute the highest hospital r
 ---
 
 # Key Insights
-
+![Representative Table](images/rep_table.png) -  Example below
 # 1. Patient Behavior Analysis
-![Patients Analysis Table](../images/001_Patients.png)
+![Patients Analysis Table](images/001_Patients.png)
 ## Observations
 - The hospital records **54,966 unique patient admissions**.
 - Patients were admitted for a wide variety of medical conditions.
