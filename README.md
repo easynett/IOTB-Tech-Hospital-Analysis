@@ -91,14 +91,14 @@ Insurance providers such as Cigna and Medicare contribute the highest hospital r
 ---
 
 # Key Insights
-![Representative Table](images/rep_table.png) -  Example below
 # 1. Patient Behavior Analysis
-![Patients Analysis Table](images/001_Patients.png)
+![Patients Analysis Table](https://raw.githubusercontent.com/easynett/IOTB-Tech-Hospital-Analysis/main/images/001_patients.png)
+
 ## Observations
 - The hospital records **54,966 unique patient admissions**.
-- Patients were admitted for a wide variety of medical conditions.
-- Admission activities remained consistently high between 2020 and 2023.
-- Patients required varying lengths of stay depending on their conditions and admission type.
+- The Male gender are the most admitted patients for the years under review.
+- The youth of working class age between 34 and 38 are the most admitted patients.
+- Patients with blood group O- are the least admitted, while A- are the most admitted indicating need for more blood donor of A- blood group
 
 ## Insight
 The hospital maintains a strong and consistent patient inflow, indicating growing trust in healthcare services and increased healthcare demand.
