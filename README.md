@@ -113,7 +113,7 @@ Management should:
 ---
 
 # 2. Revenue Analysis
-![](003_revenue.png)
+![Revenue Analysis Table](003_revenue.PNG)
 ## Total Revenue Generated
 - **N1.40 Billion** total billing amount generated from patient treatments.
 
