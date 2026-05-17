@@ -277,6 +277,8 @@ Using Pivot Tables, Pivot Charts and Excel analysis techniques, I was able to tr
 
 ---
 
-### Data Analyst
+### This Analysis was carried out by:
+---
 **_Ishaq Ajayi Ismail_**
+---
 www.linkedin.com/in/easynett | www.github.com/easynett | info2easynett@gmail.com
