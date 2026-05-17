@@ -108,11 +108,12 @@ Management should:
 - Expand patient care capacity
 - Improve patient scheduling systems
 - Enhance patient monitoring and follow-up systems
+- Ensure adequate blood bank for blood group A-
 
 ---
 
 # 2. Revenue Analysis
-
+![Revenue Analysis Table](003_revenue.png)
 ## Total Revenue Generated
 - **N1.40 Billion** total billing amount generated from patient treatments.
 
