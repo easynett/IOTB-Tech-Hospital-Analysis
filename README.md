@@ -113,7 +113,7 @@ Management should:
 ---
 
 # 2. Revenue Analysis
-![Revenue Analysis Table](https://raw.githubusercontent.com/easynett/IOTB-Tech-Hospital-Analysis/main/images/003_revenue.png)
+![Revenue Analysis Table](https://raw.githubusercontent.com/easynett/IOTB-Tech-Hospital-Analysis/main/images/003_Revenue.PNG)
 
 ## Total Revenue Generated
 - **N1.40 Billion** total billing amount generated from patient treatments.
